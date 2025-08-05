@@ -1,0 +1,265 @@
+{
+    "basics": {
+        "name": "Harjot Singh",
+        "label": "Software Enginer",
+        "image": "",
+        "email": "janedoe@email.com",
+        "phone": "(415) 420 - 1594",
+        "url": "www.harjots.com",
+        "summary": "<p>Dedicated software engineer with over 5 years of experience, including at General Motors, specializing in Realtime interactive application development for the web using Unity &amp; Unreal Engine in the visualizer team. Proficient in 3d tools like Blender, Adobe Substance, Asset Transformer. Demonstrated ability to improve technical processes, refine system architecture, and collaborate across teams to address complex challenges. Eager to apply my technical expertise and creativity to contribute to cutting-edge projects.</p>",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Bay Area, California",
+            "countryCode": "",
+            "region": ""
+        },
+        "relExp": "5",
+        "totalExp": "6 Years",
+        "objective": "Eager to expand my skill set through external trainings to help boost all major front desk KPIs. Hoping to leverage organizational skills to help ABC Corp introduce time-saving schemes for all executives.",
+        "profiles": [
+            {
+                "network": "linkedin",
+                "username": "harjots3",
+                "url": "https://www.linkedin.com/in/harjots3/"
+            },
+            {
+                "network": "twitter",
+                "username": "janedoe",
+                "url": ""
+            },
+            {
+                "network": "github",
+                "username": "coolerminds",
+                "url": "https://github.com/coolerminds/"
+            },
+            {
+                "network": "hackerrank",
+                "username": "blahzilla",
+                "url": ""
+            },
+            {
+                "network": "hackerearth",
+                "username": "harjots2",
+                "url": ""
+            },
+            {
+                "network": "codechef",
+                "username": "yah",
+                "url": ""
+            },
+            {
+                "network": "leetcode",
+                "username": "ya",
+                "url": ""
+            },
+            {
+                "network": "cssbattle",
+                "username": "janedoe",
+                "url": ""
+            }
+        ]
+    },
+    "skills": {
+        "languages": [
+            {
+                "name": "JavaScript",
+                "level": 90
+            },
+            {
+                "name": "HTML5",
+                "level": 80
+            },
+            {
+                "name": "CSS",
+                "level": 80
+            },
+            {
+                "name": "Unity 3d",
+                "level": 100
+            },
+            {
+                "name": "Three.JS",
+                "level": 100
+            },
+            {
+                "name": "WebGL",
+                "level": 100
+            },
+            {
+                "name": "Blender 3d",
+                "level": 100
+            },
+            {
+                "name": "Unreal Engine",
+                "level": 100
+            },
+            {
+                "name": "Unreal Blueprint",
+                "level": 100
+            },
+            {
+                "name": "3d Modeling & Animation",
+                "level": 0
+            }
+        ],
+        "frameworks": [
+            {
+                "name": "React",
+                "level": 70
+            },
+            {
+                "name": "Angular",
+                "level": 70
+            }
+        ],
+        "technologies": [
+            {
+                "name": "Algorithms",
+                "level": 3
+            },
+            {
+                "name": "Progressive Web Apps",
+                "level": 3
+            },
+            {
+                "name": "SQL",
+                "level": 3
+            },
+            {
+                "name": "Data Structures",
+                "level": 3
+            }
+        ],
+        "libraries": [
+            {
+                "name": "jQuery",
+                "level": 3
+            },
+            {
+                "name": "Redux",
+                "level": 3
+            }
+        ],
+        "databases": [
+            {
+                "name": "Firebase",
+                "level": 3
+            }
+        ],
+        "practices": [
+            {
+                "name": "Component based architecture",
+                "level": 3
+            },
+            {
+                "name": "Agile methodology",
+                "level": 3
+            },
+            {
+                "name": "Design Patterns",
+                "level": 3
+            },
+            {
+                "name": "Test Driven Development",
+                "level": 3
+            },
+            {
+                "name": "MVC",
+                "level": 3
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git",
+                "level": 3
+            },
+            {
+                "name": "VS Code",
+                "level": 3
+            },
+            {
+                "name": "Jira",
+                "level": 3
+            },
+            {
+                "name": "Webpack",
+                "level": 3
+            },
+            {
+                "name": "Eclipse",
+                "level": 3
+            },
+            {
+                "name": "Bitbucket",
+                "level": 3
+            }
+        ]
+    },
+    "work": [
+        {
+            "id": "1",
+            "name": "General Motors",
+            "position": "Senior Software Developer",
+            "url": "",
+            "startDate": "2021-08-03T07:00:00.000Z",
+            "isWorkingHere": false,
+            "endDate": "2024-08-04T07:00:00.000Z",
+            "highlights": [
+                "* Worked on a team of 5 developers to develop a web application for a client"
+            ],
+            "summary": "<ul><li>WebRTC to enable seamless live user interactions for a new component made on Sketch.js and ZeroLight OmniStream Api.</li><li>Developed fallback solutions using Three.js, reducing server strain and ensuring smooth user experiences under high-demand scenarios.</li><li> Converted Assets in Blender 3d from CAD models provided by Vehicle Designers, for different experiences.</li><li><span style=\"letter-spacing: 0.15008px;\">Spearheaded the design and integration of real-time video streaming platform.</span></li><li><span style=\"letter-spacing: 0.15008px;\">Used for the Corvette ZR1 and Z06 launch sites as well as the GMC EV Trucks.</span></li></ul>",
+            "years": ""
+        }
+    ],
+    "education": [
+        {
+            "id": "1",
+            "institution": "California State University - East Bay",
+            "url": "https://www.mit.edu/",
+            "studyType": " Bachelor of Science",
+            "area": "Computer Science",
+            "startDate": "2019-02-07T08:00:00.000Z",
+            "isStudyingHere": false,
+            "showDate": true,
+            "endDate": "2021-05-21T07:00:00.000Z",
+            "score": "98",
+            "courses": []
+        }
+    ],
+    "activities": {
+        "involvements": "<ul><li>Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.</li><li>Isolated previously undiscovered flaw in price checking tool resulting in more competitive pricing and a 20 percent increase in revenue.</li><li>Implemented automated testing tools spawning more diligent levels of regression testing, negative testing, error/bug retests and usability.</li><li>Prevented millions of dollars in state sales tax undercharges by initiating tests that revealed a bug in a new release of shopping cart software.</li></ul>",
+        "achievements": "<ul><li>React and redux - A complete guide 2020 from Udemy</li><li>Agile and Scrum Master Certificate from Udacity</li><li>Best performer award for consistently exceeding the performance</li><li>Certificate of exceptional bug finder by XYZ client</li><li>Recognition zero defect delivery</li><li>Best performer award for consistently exceeding the performance</li></ul>"
+    },
+    "volunteer": [
+        {
+            "id": "1",
+            "organization": "Company XYZ",
+            "position": "Organizer",
+            "url": "https://xyx.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Organized several hackthons & monthly meetup to improve the community",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ],
+            "isVolunteeringNow": false
+        }
+    ],
+    "awards": [
+        {
+            "id": "1",
+            "title": "Certificate of exceptional bug finder",
+            "date": "2014-11-01",
+            "awarder": "XYZ client",
+            "summary": "* Recognition zero defect delivery"
+        },
+        {
+            "id": "2",
+            "title": "Certificate of best frontend developer",
+            "date": "2016-11-01",
+            "awarder": "XYZ client",
+            "summary": "Awarded for exceptional improvements made to improve user experience"
+        }
+    ]
+}
